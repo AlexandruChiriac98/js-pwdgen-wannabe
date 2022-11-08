@@ -1,3 +1,5 @@
+
+
 const Nome = prompt("Inserisci Nome")
 const Cognome = prompt("Inserisci Cognome")
 const ColorePreferito = prompt("Inserisci Colore Preferito")
